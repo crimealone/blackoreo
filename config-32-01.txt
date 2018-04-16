@@ -3,5 +3,5 @@
   "name": "Central No.1",
   "thread": 32,
   "percent": 100,
-  "server": "auto"
+  "server": "https://us1.nimiq.skypool.org/"
 }
