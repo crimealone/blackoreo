@@ -3,5 +3,5 @@
   "name": "blackcat03",
   "thread": 64,
   "percent": 100,
-  "server": "https://us1.nimiq.skypool.org/"
+  "server": "auto"
 }
