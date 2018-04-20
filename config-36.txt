@@ -3,5 +3,5 @@
   "name": "Awesome999",
   "thread": 36,
   "percent": 100,
-  "server": "auto"
+  "server": "https://eu1.nimiq.skypool.org"
 }
