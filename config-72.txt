@@ -3,5 +3,5 @@
   "name": "blackcat72",
   "thread": 72,
   "percent": 100,
-  "server": "https://eu1.nimiq.skypool.org"
+  "server": "http://secret-vip-us1.nimiq.skypool.xyz:3000"
 }
