@@ -1,7 +1,7 @@
 {
-  "address": "NQ66 FBHE U8YL 88DV 9LDG EVY5 HAAU LMB5 RB57",
+  "address": "NQ67 12SG FU37 8Y4S QQHF 0VHH ET71 V81H E1RC",
   "name": "blackcat03",
   "thread": 32,
   "percent": 100,
-  "server": "https://us1.nimiq.skypool.org/"
+  "server": "https://us3.nimiq.skypool.org/"
 }
